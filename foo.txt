@@ -1,2 +1,5 @@
 Test file content.
-12
+123
+
+
+tail -f /var/log/github.error.log
